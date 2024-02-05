@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>New Test Post</title>
+  <slug>new test post</slug>
+  <pubDate>2024-02-04T23:16:59.722Z</pubDate>
+  <lastModified>2024-02-05T04:20:17.389Z</lastModified>
+  <excerpt>Short Description for test post</excerpt>
+  <content>&lt;p&gt;Content for test post (V8)&lt;/p&gt;
+&lt;p&gt;&lt;img src="/Posts/files/WeChatImage635463340550870113_638426857841967648.jpg" alt="WeChatImage635463340550870113.jpg" width="354" height="265" /&gt;&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>test</category>
+  </categories>
+  <tags>
+    <tag>test</tag>
+  </tags>
+  <comments></comments>
+</post>

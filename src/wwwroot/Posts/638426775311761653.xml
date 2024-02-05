@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>New post</title>
+  <slug>New post</slug>
+  <pubDate>2024-02-04T21:06:29.126Z</pubDate>
+  <lastModified>2024-02-04T21:06:29.159Z</lastModified>
+  <excerpt>Short description for new post</excerpt>
+  <content>&lt;p style="box-sizing: inherit; outline-color: inherit; margin: 1rem 0px 0px; padding: 0px; overflow-wrap: break-word; color: #161616; font-family: 'Segoe UI', SegoeUI, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;"&gt;ASP.NET Core is a cross-platform, high-performance,&amp;nbsp;&lt;a style="box-sizing: inherit; outline-color: inherit; cursor: pointer; overflow-wrap: break-word; text-decoration-line: none; background-color: rgba(0, 0, 0, 0); outline-style: initial; outline-width: 0px;" href="https://github.com/dotnet/aspnetcore" data-linktype="external"&gt;open-source&lt;/a&gt;&amp;nbsp;framework for building modern, cloud-enabled, Internet-connected apps.&lt;/p&gt;
+&lt;p style="box-sizing: inherit; outline-color: inherit; margin: 1rem 0px 0px; padding: 0px; overflow-wrap: break-word; color: #161616; font-family: 'Segoe UI', SegoeUI, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;"&gt;With ASP.NET Core, you can:&lt;/p&gt;
+&lt;ul style="box-sizing: inherit; outline-color: inherit; margin: 16px 0px 16px 38px; padding: 0px; list-style: none; color: #161616; font-family: 'Segoe UI', SegoeUI, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;"&gt;
+&lt;li style="box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;"&gt;Build web apps and services,&amp;nbsp;&lt;a style="box-sizing: inherit; outline-color: inherit; cursor: pointer; overflow-wrap: break-word; text-decoration-line: none; background-color: rgba(0, 0, 0, 0); outline-style: initial; outline-width: 0px;" href="https://www.microsoft.com/internet-of-things/" data-linktype="external"&gt;Internet of Things (IoT)&lt;/a&gt;&amp;nbsp;apps, and mobile backends.&lt;/li&gt;
+&lt;li style="box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;"&gt;Use your favorite development tools on Windows, macOS, and Linux.&lt;/li&gt;
+&lt;li style="box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;"&gt;Deploy to the cloud or on-premises.&lt;/li&gt;
+&lt;li style="box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: disc;"&gt;Run on&amp;nbsp;&lt;a style="box-sizing: inherit; outline-color: inherit; cursor: pointer; overflow-wrap: break-word; text-decoration-line: none; background-color: rgba(0, 0, 0, 0); outline-style: initial; outline-width: 0px;" href="https://learn.microsoft.com/en-us/dotnet/core/introduction" data-linktype="absolute-path"&gt;.NET&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>misc</category>
+  </categories>
+  <tags>
+    <tag>misc</tag>
+  </tags>
+  <comments></comments>
+</post>
